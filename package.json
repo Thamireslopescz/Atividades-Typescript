@@ -1,0 +1,12 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npx tsc && node ./dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thamireslopescz",
+  "dependencies": {
+    "typescript": "^5.1.6"
+  }
+}
